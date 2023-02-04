@@ -1,6 +1,6 @@
 ## Data Enthusiasts Salary Analysis
 
-One of the most in-demand and fastest-growing job categories in technology is data science. Data Scientist positions have grown by 650 percent since 2012, and this growth is still going strong. By 2026, the U.S. Bureau of Labor Statistics estimates that there will be a further 27.9 percent growth in demand for data science expertise. And that will result in a shortfall of between 140,000 and 190,000 analysts in the United States alone, according to a McKinsey estimate, not to mention the additional 1.5 million managers and analysts who will need to comprehend how data analysis influences decision-making.
+One of the most in-demand and fastest-growing job categories in technology is data science. Data Scientist positions have grown exponentially since 2012, and this growth is still going strong. By 2026, the U.S. Bureau of Labor Statistics estimates that there will be a further growth in demand for data science expertise. 
 
 In this project, the employees and benefits of individuals employed in the field of data science are in-depthly analyzed and visualized. 
 
