@@ -2,7 +2,7 @@
 
 One of the most in-demand and fastest-growing job categories in technology is data science. Data Scientist positions have grown exponentially since 2012, and this growth is still going strong. By 2026, the U.S. Bureau of Labor Statistics estimates that there will be a further growth in demand for data science expertise. 
 
-In this project, the employees and benefits of individuals employed in the field of data science are in-depthly analyzed and visualized. 
+In this project, the employers and benefits of individuals employed in the field of data science are in-depthly analyzed and visualized. 
 
 The objectives can be summaried as below:
    - Explore every feature in the dataset.
