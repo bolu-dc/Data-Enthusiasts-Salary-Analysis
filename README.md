@@ -4,7 +4,7 @@ One of the most in-demand and fastest-growing job categories in technology is da
 
 In this project, the employers and benefits of individuals employed in the field of data science are in-depthly analyzed and visualized. 
 
-The objectives can be summaried as below:
+The objectives are summaried below:
    - Explore every feature in the dataset.
    - Work year analysis (with salary, remote ratio).
    - Experience level analysis (with employment type, top 3 job titles, company size).
